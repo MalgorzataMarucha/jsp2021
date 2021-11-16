@@ -1,0 +1,10 @@
+import math
+a=input("Wpisz a:")
+b=input("Wpisz b:")
+kat=input("Wpisz kat:")
+a=int(a)
+b=int(b)
+kat=int(kat)
+kat=math.radians(kat)
+P=(1/2)*a*b*math.sin(kat)
+print(P)
