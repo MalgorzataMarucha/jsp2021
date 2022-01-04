@@ -1,0 +1,20 @@
+nr PESEL: 85850800231
+ data urodzenia 08-5-1885;	 p³eæ: mê¿czyzna 
+nr PESEL: 16281307354
+ data urodzenia 13-8-2016;	 p³eæ: mê¿czyzna 
+nr PESEL: 61072124386
+ data urodzenia 21-07-1961;	 p³eæ: kobieta 
+nr PESEL: 20091084776
+ data urodzenia 10-09-1920;	 p³eæ: mê¿czyzna 
+nr PESEL: 18921924068
+ data urodzenia 19-12-1818;	 p³eæ: kobieta 
+nr PESEL: 03101715925
+ data urodzenia 17-10-1903;	 p³eæ: kobieta 
+nr PESEL: 61281489470
+ data urodzenia 14-8-2061;	 p³eæ: mê¿czyzna 
+nr PESEL: 14240809095
+ data urodzenia 08-4-2014;	 p³eæ: mê¿czyzna 
+nr PESEL: 72890657912
+ data urodzenia 06-9-1872;	 p³eæ: mê¿czyzna 
+nr PESEL: 70291453836
+ data urodzenia 14-9-2070;	 p³eæ: mê¿czyzna 
